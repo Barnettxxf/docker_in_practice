@@ -1,0 +1,6 @@
+blockade_id: blockade
+containers:
+  client1: {id: 331e57cdce6a496ea0c18a875ab4ba2588062837ac34173253d2e4d9954aeb5d}
+  client2: {id: ae48edfcf3a523f0ec09dc336b12fcec26266701a655a52faab260ac38d4c1ae}
+  server: {id: b8643a5bcfd9dd2a49980525c2b4057a5a2b82187f39b5e313ea284262af0d78}
+version: 1
